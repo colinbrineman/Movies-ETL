@@ -2,7 +2,7 @@
 /resources/ratings.csv
 config.py
 Module_8_ETL.ipynb
-.DS_Store
+**/.DS_Store
 .ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
